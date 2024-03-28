@@ -38,8 +38,8 @@ li.nav_fluid{display:none;}
 }
 
 #main{width:100%;min-height:100%;height:auto !important;height:100%;margin-bottom:-33px;}
-h1{line-height:5em;font-size:1.5em;font-weight:bold;text-align:center;}
-h2, h3{line-height:2.2em;font-size:1.25em;font-weight:bold;color:#900;}
+h1{line-height:5em;font-size:1.5em;font-weight:normal;text-align:center;}
+h2, h3{line-height:2.2em;font-size:1.25em;font-weight:normal;color:#900;}
 h2:first-letter , h3:first-letter {color:#222;}
 h3{line-height:2.2em;font-size:1.2em;}
 
